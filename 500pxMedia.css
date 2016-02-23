@@ -1,0 +1,41 @@
+.row {
+  display:flex;
+  flex-wrap: wrap;
+}
+
+
+#header1 {
+  width: 100%;
+}
+
+
+#header1-img {
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+#header2 {
+  width:100%;
+}
+
+
+.header {
+  text-align: center;
+}
+
+
+#featured1 {
+  width: 100%;
+}
+
+
+#featured2 {
+  width: 100%;
+}
+
+
+#featured3 {
+  width: 100%;
+}
